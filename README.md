@@ -35,7 +35,7 @@ To analyze how key match events (goals, substitutions, injuries, cards, etc.) af
 This repository is organized as follows:
 
 - `output/`: This folder contains CSV files of the time to recover ball possession for each match
-- `visuals/`: This folder contains the HTML files generated for the visual dashboard. The main dashboard is `dashboard.html`, which can also be accessed online at [https://ace3z.github.io/](https://ace3z.github.io/)
+- `visuals/`: This folder contains the HTML files generated for the visual dashboard. The main dashboard is `dashboard.html`.
 - `event_recovery_analysis/`: This folder contains the CSV file outputs of the statistical analysis performed
 - `team_colors.py`: Python script that assigns colors for each team in the tournament
 - `match_finder.py`: Python script used to find the match IDs for each match

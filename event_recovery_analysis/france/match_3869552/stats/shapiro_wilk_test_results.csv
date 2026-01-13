@@ -1,0 +1,4 @@
+Event Type,Sample Size,Shapiro-Wilk Statistic,p-value,Normal Distribution
+Substitutions,22,0.6861,0.000013097953788519,No
+Tactical Shifts,14,0.7910,0.003865565986469288,No
+Injuries,14,0.8505,0.022577431119062748,No

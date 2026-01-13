@@ -1,0 +1,2 @@
+analysis_level,team,match_id,opposing_team,event_type,p_value,test_statistic,before_n,after_n,avg_before,avg_after,faster_after,cliffs_delta,ci_lower,ci_upper,effect_size,significant_uncorrected,bh_corrected_p,significant_after_bh,correction_scope,correction_method
+match,France,3869152,Poland,substitutions,0.5688554255386256,58.0,10,10,78.60359999999999,64.691,True,0.16,-0.4,0.67,Small,False,0.5688554255386256,False,Within Match 3869152,"Benjamini-Hochberg (Match-level, α=0.05)"

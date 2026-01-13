@@ -1,0 +1,3 @@
+analysis_level,team,match_id,opposing_team,event_type,p_value,test_statistic,before_n,after_n,avg_before,avg_after,faster_after,cliffs_delta,ci_lower,ci_upper,effect_size,significant_uncorrected,bh_corrected_p,significant_after_bh,correction_scope,correction_method
+match,France,3857279,Australia,all_goals,0.369228457018421,11.5,5,7,37.919,61.25814285714286,False,-0.34285714285714286,-0.9142857142857143,0.3142857142857143,Medium,False,0.369228457018421,False,Within Match 3857279,"Benjamini-Hochberg (Match-level, α=0.05)"
+match,France,3857279,Australia,substitutions,0.20245243896845744,63.0,10,18,19.3747,45.6595,False,-0.3,-0.6779166666666667,0.14444444444444443,Small,False,0.369228457018421,False,Within Match 3857279,"Benjamini-Hochberg (Match-level, α=0.05)"

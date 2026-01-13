@@ -1,0 +1,2 @@
+analysis_level,team,match_id,event_type,p_value,test_statistic,before_n,after_n,avg_before,avg_after,faster_after,cliffs_delta,ci_lower,ci_upper,effect_size,significant_uncorrected,bh_corrected_p,significant_after_bh,correction_scope,correction_method
+team,Argentina,all_matches,injuries,0.004265367386286248,3042.5,79,60,113.31262025316455,73.44198333333334,True,0.28375527426160335,0.11208333333333335,0.4629535864978902,Small,True,0.021326836931431236,True,Within Argentina Team,"Benjamini-Hochberg (Team-level, α=0.05)"

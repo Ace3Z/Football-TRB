@@ -1,0 +1,2 @@
+analysis_level,team,match_id,opposing_team,event_type,p_value,test_statistic,before_n,after_n,avg_before,avg_after,faster_after,cliffs_delta,ci_lower,ci_upper,effect_size,significant_uncorrected,bh_corrected_p,significant_after_bh,correction_scope,correction_method
+match,France,3869552,Morocco,injuries,0.8457796775972303,22.0,8,6,68.112625,57.86716666666666,True,-0.08333333333333333,-0.75,0.5416666666666666,Negligible,False,0.8457796775972303,False,Within Match 3869552,"Benjamini-Hochberg (Match-level, α=0.05)"

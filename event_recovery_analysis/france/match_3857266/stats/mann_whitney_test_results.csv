@@ -1,0 +1,2 @@
+analysis_level,team,match_id,opposing_team,event_type,p_value,test_statistic,before_n,after_n,avg_before,avg_after,faster_after,cliffs_delta,ci_lower,ci_upper,effect_size,significant_uncorrected,bh_corrected_p,significant_after_bh,correction_scope,correction_method
+match,France,3857266,Denmark,substitutions,0.26472794838456537,60.0,7,13,147.90142857142857,65.44261538461538,True,0.31868131868131866,-0.2967032967032967,0.8686813186813181,Small,False,0.26472794838456537,False,Within Match 3857266,"Benjamini-Hochberg (Match-level, α=0.05)"

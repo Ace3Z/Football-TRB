@@ -1,0 +1,2 @@
+analysis_level,team,match_id,opposing_team,event_type,p_value,test_statistic,before_n,after_n,avg_before,avg_after,faster_after,cliffs_delta,ci_lower,ci_upper,effect_size,significant_uncorrected,bh_corrected_p,significant_after_bh,correction_scope,correction_method
+match,Argentina,3857264,Poland,tactical_shifts,0.9359624729209428,19.0,6,6,112.02449999999999,106.31850000000001,True,0.05555555555555555,-0.6666666666666666,0.6666666666666666,Negligible,False,0.9359624729209428,False,Within Match 3857264,"Benjamini-Hochberg (Match-level, α=0.05)"

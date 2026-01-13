@@ -1,0 +1,4 @@
+Event Type,Sample Size,Shapiro-Wilk Statistic,p-value,Normal Distribution
+Substitutions,20,0.8250,0.002090534429959831,No
+Injuries,12,0.7122,0.001108073431024143,No
+Yellow Cards,9,0.7333,0.003472183470828107,No

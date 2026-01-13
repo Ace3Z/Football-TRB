@@ -1,0 +1,4 @@
+Event Type,Sample Size,Shapiro-Wilk Statistic,p-value,Normal Distribution
+All Goals,10,0.9013,0.226616972765708691,Yes
+Substitutions,20,0.8595,0.007733240628336369,No
+Yellow Cards,9,0.8544,0.083194513186700972,Yes
